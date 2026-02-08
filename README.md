@@ -23,3 +23,7 @@ The analysis aims to rank courses in order of enrolments, monitor changes from o
 4.Use the NTILE(4) window function to divide students into four performance groups according to their average grades.
 
 5.To smooth short-term fluctuations, use AVG() OVER() to calculate a moving average of course enrollment over successive semesters.
+
+## Database schema design 
+<img width="1536" height="1024" alt="ER diagram" src="https://github.com/user-attachments/assets/b70d1483-3ff1-44a3-bdf6-cc99b0e12099" />
+
