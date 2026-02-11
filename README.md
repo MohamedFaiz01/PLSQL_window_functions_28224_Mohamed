@@ -27,3 +27,8 @@ The analysis aims to rank courses in order of enrolments, monitor changes from o
 ## Database schema design 
 <img width="1536" height="1024" alt="ER diagram" src="https://github.com/user-attachments/assets/b70d1483-3ff1-44a3-bdf6-cc99b0e12099" />
 
+**SQL scripts**
+Table Creation
+![Screen2](https://github.com/user-attachments/assets/8fabb286-a23f-4f82-9f3a-86504b3efe49)
+
+**Part A — SQL JOINs**
