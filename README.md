@@ -29,11 +29,12 @@ The analysis aims to rank courses in order of enrolments, monitor changes from o
 
 **SQL scripts**
 Table Creation
+
 ![Screen2](https://github.com/user-attachments/assets/8fabb286-a23f-4f82-9f3a-86504b3efe49)
 
 **Part A — SQL JOINs**
-<img width="471" height="252" alt="image" src="https://github.com/user-
-  attachments/assets/11e567c5-a2b4-469e-8b04-8faa0b9bbbef" />
+<img width="471" height="252" alt="Screenshot 2026-02-11 171410" src="https://github.com/user-attachments/assets/3f6da124-532b-46a5-bfd9-cbca6bcfcfbd" />
+
   
   **Interpretation**
 
